@@ -1,2 +1,6 @@
 # CS061
-UCR CS061: Assembly Language &amp; Machine Learning - Prof. Brian Linard
+
+  This class taught us about the lower levels of technology, fusing the code we write on a computer to circuits and hardware. 
+We began by learning a lot about logic, beginning with decimal-binary-hex conversions and logic gates. I believe it was a great experience learning about how machines think with 0s and 1s. A lot of our projects and studies revolved around the LC-3 (Little Computer 3), a simulated and simple processor. We learned about its instructions and how they flowed through the LC-3, specifically muxes, adders, etc. We also learned to code in the native LC-3 language, which is lowest-level. I am now thankful for higher-level languages and object-oriented programming, as a simple for-loop took seven lines of code to write!
+
+  As I mentioned above, I enjoyed learning more about the fusion between software and hardware. Creating programs in low-level and fully understanding what each line of code was doing in the LC-3 was eye-opening. Keeping this in mind helps me a lot when I write programs in a higher-level language because I can implement this information to create more efficient code. I believe having a wider understanding of hardware and software is beneficial in all aspects of computer-related engineering. Although the coding was tedious, it was very humbling as well because it shows how advanced these upper-level languages are and how simple it is to program a machine full of 0s and 1s.
